@@ -26,7 +26,7 @@ Nossos designer e desenvolvedor estão de férias e precisamos de ajuda para fin
 
 1. Faça o ```Fork``` deste projeto.
 2. Assim que finalizar, nos envie o link do seu projeto no GitLab.
-3. Lembre-se que você tem **3 dias para entregar o projeto**, com início na data agendada previamente por e-mail.
+3. Lembre-se que você tem **3 dias para a entrega**, com início na data agendada previamente.
 
 Qualquer dúvida, entre em contato!
 
