@@ -21,14 +21,16 @@ Nossos designer e desenvolvedor estão de férias e precisamos de ajuda para fin
   * As informações mínimas que deverão aparecer são: imagem, nome, breve descrição e outros nomes que o personagem utiliza, quando tiver.
   * As informações deverão ser consumidas da API [Kitsu](https://kitsu.docs.apiary.io/).
  
+**Não se preocupe se não conseguir atender a todos os requisitos!**
+
 ### Instruções
 
 1. Faça o ```Fork``` ou donwload deste projeto.
-2. Trabalhe localmente no seu projeto, faça até o ponto que conseguir.**Não se preocupe se não finalizar todos os requisitos.**
+2. Trabalhe localmente no seu projeto, faça até o ponto que conseguir.
 3. Suba o seu projeto para o GitLab, GitHub ou qualquer similar.
-4. Nos envie o link para o seu projeto, mesmo que não esteja finalizado!
+4. Nos envie o link para o seu projeto, **mesmo que não esteja finalizado!**
 
-Qualquer dúvida sobre o projeto, entre em contato com [Carolina](mailto:ch@iquilibrio.com.br)!
+**Qualquer dúvida, entre em contato com [Carolina](mailto:ch@iquilibrio.com.br)!**
 
 ## Licenças
 
