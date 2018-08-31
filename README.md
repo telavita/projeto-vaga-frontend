@@ -14,7 +14,6 @@ Nossos designer e desenvolvedor estão de férias e precisamos de ajuda para fin
 ### Requisitos
 
 1. Melhorar a interface e usabilidade do layout da página atual:
-  * A página deve ser responsiva.
   * Você pode implementar frameworks e ferramentas ao projeto, se preferir.
 
 2. Sobre os card dos personagens:
@@ -24,11 +23,12 @@ Nossos designer e desenvolvedor estão de férias e precisamos de ajuda para fin
  
 ### Instruções
 
-1. Faça o ```Fork``` deste projeto.
-2. Assim que finalizar, nos envie o link do seu projeto no GitLab.
-3. Lembre-se que você tem **3 dias para a entrega**, com início na data agendada previamente.
+1. Faça o ```Fork``` ou donwload deste projeto.
+2. Trabalhe localmente no seu projeto, faça até o ponto que conseguir.**Não se preocupe se não finalizar todos os requisitos.**
+3. Suba o seu projeto para o GitLab, GitHub ou qualquer similar.
+4. Nos envie o link para o seu projeto, mesmo que não esteja finalizado!
 
-Qualquer dúvida, entre em contato!
+Qualquer dúvida sobre o projeto, entre em contato com [Carolina](mailto:ch@iquilibrio.com.br)!
 
 ## Licenças
 
