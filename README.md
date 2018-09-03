@@ -19,7 +19,7 @@ Nossos designer e desenvolvedor estão de férias e precisamos de ajuda para fin
 2. Sobre os card dos personagens:
   * A página deverá conter no mínimo 4 cards.
   * As informações mínimas que deverão aparecer são: imagem, nome, breve descrição e outros nomes que o personagem utiliza, quando tiver.
-  * As informações deverão ser consumidas da API [Kitsu](https://kitsu.docs.apiary.io/).
+  * As informações deverão ser consumidas da API [Kitsu](https://kitsu.docs.apiary.io/#reference/characters-&-people/characters).
  
 **Não se preocupe se não conseguir atender a todos os requisitos!**
 
